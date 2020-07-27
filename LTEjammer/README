@@ -67,4 +67,6 @@ length).
                     --channels "0,1" --hoptime 240 \
                     --rate 20000000
 
-Parameter --rate specificies the number of samples per second.
+Parameter --rate specificies the number of samples per second
+
+Test
